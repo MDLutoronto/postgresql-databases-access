@@ -5,6 +5,9 @@ description: "Since access to both the Web of Science PostgreSQL database and th
 staff:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+ - name: Kara Handren
+   link: https://library.utoronto.ca/staff/kara-handren
 created_date: 2022-01-26
 permalink: "/"  #! Remove this if not the homepage
 ---
