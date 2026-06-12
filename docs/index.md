@@ -6,8 +6,8 @@ staff:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
 maintainer:
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 created_date: 2022-01-26
 permalink: "/"  #! Remove this if not the homepage
 ---
@@ -37,7 +37,7 @@ After the Compute Canada account is approved, you should opt in to the Trillium 
 ## 3. Upload an SSH key to CCDB
 {: #upload-an-ssh-key-to-ccdb}
 
-Next, locate the Manage SSH Keys option on you account page on the CCDB website (or use this [direct link](https://ccdb.computecanada.ca/ssh_authorized_keys)) and upload your public SSH key. [Instructions on creating SSH key pairs](http://docs.scinet.utoronto.ca/index.php/SSH#SSH_Keys) from the SciNet Wiki can help you with this process. This wiki also contains pages with more information on [creating SSH key pairs specifically on a Windows machine](https://docs.computecanada.ca/wiki/Generating_SSH_keys_in_Windows/en), or on [Mac or Linux machines](https://docs.computecanada.ca/wiki/Using_SSH_keys_in_Linux). The Map & Data Library also provides a [quick start tutorial for creating SSH key pairs on a Mac](https://mdl.library.utoronto.ca/technology/tutorials/generating-ssh-key-pairs-mac), if you need more help.
+Next, locate the Manage SSH Keys option on you account page on the CCDB website (or use this [direct link](https://ccdb.computecanada.ca/ssh_authorized_keys)) and upload your public SSH key. [Instructions on creating SSH key pairs](http://docs.scinet.utoronto.ca/index.php/SSH#SSH_Keys) from the SciNet Wiki can help you with this process. This wiki also contains pages with more information on [creating SSH key pairs specifically on a Windows machine](https://docs.computecanada.ca/wiki/Generating_SSH_keys_in_Windows/en), or on [Mac or Linux machines](https://docs.computecanada.ca/wiki/Using_SSH_keys_in_Linux). The Map & Data Library also provides a [quick start tutorial for creating SSH key pairs on a Mac](https://mdlutoronto.github.io/ssh-key-pairs-mac-generating/), if you need more help.
 
 ## 4. Request WoS database access from SciNet
 {: #request-wos-or-cipo-database-access-from-scinet}
@@ -53,9 +53,11 @@ More [information about the database server](http://docs.scinet.utoronto.ca/inde
 
 If working with object-relational databases, SQL, and high performance computing environments are new to you, tutorials for both WoS and CIPO are available to help you get started:
 
-* WoS [tutorial for Windows users](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-web-science-postgresql-database) or [tutorial for Mac users](https://mdl.library.utoronto.ca/getting-started-web-science-postgresql-database-MAC)
-* CIPO [tutorial for Windows users](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-cipo-postgresql-database-WINDOWS) or [tutorial for Mac users](https://mdl.library.utoronto.ca/technology/tutorials/getting-started-cipo-postgresql-database-MAC)
+* WoS [tutorial for Windows users](https://mdlutoronto.github.io/wos-postgresql-database-getting-started/) or [tutorial for Mac users](https://mdlutoronto.github.io/wos-postgresql-database-mac-getting-started/)
+* CIPO [tutorial for Windows users](https://mdlutoronto.github.io/cipo-windows/) or [tutorial for Mac users](https://mdlutoronto.github.io/cipo-mac/)
 
 If you have any question, feel free to [contact us](https://mdl.library.utoronto.ca/about/contact-form).
+
+**Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining)
 
 
