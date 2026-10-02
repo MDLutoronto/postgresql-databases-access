@@ -14,7 +14,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 # How to Access the PostgreSQL Databases
 
-Since access to both the [Web of Science PostgreSQL database](https://mdl.library.utoronto.ca/postgresql-database-version-web-science-raw-data-xml) and the [Canadian Intellectual Property Office (CIPO) Patent PostgreSQL database](https://mdl.library.utoronto.ca/technology/text-data-mining-software/cipo-postgresql-database) is tied to access to supercomputers, it can only be granted after a multi-step process that ensures security and access rights:
+Since access to both the [Web of Science PostgreSQL database](https://mdlutoronto.github.io/wos-postgresql-database-getting-started/) and the [Canadian Intellectual Property Office (CIPO) Patent PostgreSQL database](https://mdlutoronto.github.io/cipo-mac/) is tied to access to supercomputers, it can only be granted after a multi-step process that ensures security and access rights:
 
 1. [Get a Compute Canada account](#get-a-compute-canada-account)
 2. [Opt into the Trillum service](#opt-into-the-trillum-service)
@@ -27,7 +27,7 @@ These steps only need to be completed once to gain access, and should normally o
 {: #get-a-compute-canada-account}
 Please visit the [Compute Canada Database (CCDB) website](https://ccdb.computecanada.ca/account_application) and apply for an account (takes a day or two to approve).  
 
-Note: Students and postdocs need to be sponsored by their supervisor, who would need to already have a Compute Canada account (or create one first). Please [contact the Map & Data Library](https://mdl.library.utoronto.ca/about/contact-form) for assistance.
+Note: Students and postdocs need to be sponsored by their supervisor, who would need to already have a Compute Canada account (or create one first). Please [contact the Map & Data Library](https://library.utoronto.ca/contact-us/data-maps) for assistance.
 
 ## 2. Opt in to the Trillium service
 {: #opt-into-the-trillum-service}
@@ -56,7 +56,7 @@ If working with object-relational databases, SQL, and high performance computing
 * WoS [tutorial for Windows users](https://mdlutoronto.github.io/wos-postgresql-database-getting-started/) or [tutorial for Mac users](https://mdlutoronto.github.io/wos-postgresql-database-mac-getting-started/)
 * CIPO [tutorial for Windows users](https://mdlutoronto.github.io/cipo-windows/) or [tutorial for Mac users](https://mdlutoronto.github.io/cipo-mac/)
 
-If you have any question, feel free to [contact us](https://mdl.library.utoronto.ca/about/contact-form).
+If you have any question, feel free to [contact us](https://library.utoronto.ca/contact-us/data-maps).
 
 **Technique:** [Text and Data Mining](https://mdlutoronto.github.io/tutorials-search/?technique=Text+and+Data+Mining)
 
